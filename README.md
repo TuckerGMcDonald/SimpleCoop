@@ -7,7 +7,7 @@ mkdir SimpleCoop
 Enter the directory
 Clone central repository to local machine inside your new directory:
 
-git clone https://github.com/rnpeters42/SimpleCoop.git
+git clone https://github.com/TuckerGMcDonald/SimpleCoop.git
 
 Create a Feature Branch:
 
